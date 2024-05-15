@@ -1,0 +1,15 @@
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/bin/Debug/net8.0/SieveOfEratosthenes
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/bin/Debug/net8.0/SieveOfEratosthenes.deps.json
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/bin/Debug/net8.0/SieveOfEratosthenes.runtimeconfig.json
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/bin/Debug/net8.0/SieveOfEratosthenes.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/bin/Debug/net8.0/SieveOfEratosthenes.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.AssemblyInfoInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.AssemblyInfo.cs
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.sourcelink.json
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/refint/SieveOfEratosthenes.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/SieveOfEratosthenes.genruntimeconfig.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/SieveOfEratosthenes/obj/Debug/net8.0/ref/SieveOfEratosthenes.dll

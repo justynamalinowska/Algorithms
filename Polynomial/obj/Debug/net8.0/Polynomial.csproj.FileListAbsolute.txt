@@ -1,0 +1,15 @@
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/bin/Debug/net8.0/Polynomial
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/bin/Debug/net8.0/Polynomial.deps.json
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/bin/Debug/net8.0/Polynomial.runtimeconfig.json
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/bin/Debug/net8.0/Polynomial.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/bin/Debug/net8.0/Polynomial.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.AssemblyInfoInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.AssemblyInfo.cs
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.sourcelink.json
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/refint/Polynomial.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/Polynomial.genruntimeconfig.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/Polynomial/obj/Debug/net8.0/ref/Polynomial.dll

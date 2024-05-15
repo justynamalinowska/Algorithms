@@ -1,0 +1,15 @@
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/bin/Debug/net8.0/MonteCarlo
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/bin/Debug/net8.0/MonteCarlo.deps.json
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/bin/Debug/net8.0/MonteCarlo.runtimeconfig.json
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/bin/Debug/net8.0/MonteCarlo.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/bin/Debug/net8.0/MonteCarlo.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.AssemblyInfoInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.AssemblyInfo.cs
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.sourcelink.json
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/refint/MonteCarlo.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/MonteCarlo.genruntimeconfig.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/MonteCarlo/obj/Debug/net8.0/ref/MonteCarlo.dll

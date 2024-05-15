@@ -1,0 +1,15 @@
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/bin/Debug/net8.0/TSP
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/bin/Debug/net8.0/TSP.deps.json
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/bin/Debug/net8.0/TSP.runtimeconfig.json
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/bin/Debug/net8.0/TSP.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/bin/Debug/net8.0/TSP.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.AssemblyInfoInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.AssemblyInfo.cs
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.sourcelink.json
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/refint/TSP.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/TSP.genruntimeconfig.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/TSP/obj/Debug/net8.0/ref/TSP.dll

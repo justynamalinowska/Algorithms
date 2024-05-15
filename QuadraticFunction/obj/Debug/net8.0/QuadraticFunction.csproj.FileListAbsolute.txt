@@ -1,0 +1,15 @@
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/bin/Debug/net8.0/QuadraticFunction
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/bin/Debug/net8.0/QuadraticFunction.deps.json
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/bin/Debug/net8.0/QuadraticFunction.runtimeconfig.json
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/bin/Debug/net8.0/QuadraticFunction.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/bin/Debug/net8.0/QuadraticFunction.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.AssemblyInfoInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.AssemblyInfo.cs
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.sourcelink.json
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/refint/QuadraticFunction.dll
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.pdb
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/QuadraticFunction.genruntimeconfig.cache
+/Users/justynamalinowska/RiderProjects/Algorithms/QuadraticFunction/obj/Debug/net8.0/ref/QuadraticFunction.dll
